@@ -1,6 +1,8 @@
 # Metaheuristics
 
-This is simply a note that recognizes a bunch of metaheuristics that I’ve come across throughout my research. This may be of use when attempting to discover new variants or successors. If you want your algorithm posted here please email me (link on github profile).
+This is simply a note that recognizes a bunch of metaheuristics that I’ve come across throughout my research. This may be of use when attempting to discover new variants or successors. 
+
+If you want your algorithm posted here please email me! (link on github profile)
 
 ## Particle Swarm Optimizers (PSO)
 - Original PSO: https://doi.org/10.1109/ICNN.1995.488968
