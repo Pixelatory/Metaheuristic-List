@@ -22,3 +22,32 @@ Known for working well for large-scale optimization problems. May need to consid
 - CMOPSO: https://doi.org/10.1016/j.ins.2017.10.037
 - HTL-PSO: https://doi.org/10.1016/j.neucom.2016.10.001
 - MOPSO_TA: https://doi.org/10.1016/j.asoc.2022.108532
+
+## Genetic Algorithms (GA)
+
+- Original GA: http://datajobstest.com/data-science-repo/Genetic-Algorithm-Guide-[Tom-Mathew].pdf
+  - note: explains the vanilla algorithm, but not the original author(s) of GA.
+
+### Multi-objective
+
+- NSGA-II: https://doi.org/10.1109/4235.996017
+
+## Water Wave Optimization (WWO)
+
+- Original WWO: https://doi.org/10.1016/j.cor.2014.10.008
+- SimWWO: https://doi.org/10.1109/CEC.2015.7256974
+
+## Differential Evolution (DE)
+
+- Original DE: https://doi.org/10.1109/NAFIPS.1996.534789
+
+### Multi-objective
+
+- CMODE: https://doi.org/10.1109/TCYB.2015.2490669
+- CCMODE (constrained): https://doi.org/10.1109/TCYB.2018.2819208
+
+## Ant Colony Optimization (ACO)
+
+## Artificial Bee Colony Optimization
+
+## Genetic Programming
