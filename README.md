@@ -53,3 +53,5 @@ Known for working well for large-scale optimization problems. May need to consid
 ## Artificial Bee Colony Optimization
 
 ## Genetic Programming
+
+## Nondominated Neighbor Immune Algorithm (NNIA)
