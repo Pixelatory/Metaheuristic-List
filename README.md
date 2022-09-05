@@ -46,6 +46,7 @@ Known for working well for large-scale optimization problems. May need to consid
 ### Cooperative
 
 - CoDE-AG: https://doi.org/10.1177%2F1687814019834161
+- DECC-RAG: https://doi.org/10.5220/0006903102610268
 
 ### Multi-objective
 
