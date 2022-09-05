@@ -43,6 +43,10 @@ Known for working well for large-scale optimization problems. May need to consid
 
 - Original DE: https://doi.org/10.1109/NAFIPS.1996.534789
 
+### Cooperative
+
+- CoDE-AG: https://doi.org/10.1177%2F1687814019834161
+
 ### Multi-objective
 
 - CMODE: https://doi.org/10.1109/TCYB.2015.2490669
