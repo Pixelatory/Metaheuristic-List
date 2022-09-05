@@ -30,6 +30,11 @@ Known for working well for large-scale optimization problems. May need to consid
 - Original GA: http://datajobstest.com/data-science-repo/Genetic-Algorithm-Guide-[Tom-Mathew].pdf
   - note: explains the vanilla algorithm, but not the original author(s) of GA.
 
+### Cooperative
+
+- CCGA, CCGA-1, CCGA-2: https://doi.org/10.1007/3-540-58484-6_269
+  - note: this may be the first time cooperative coevolution was introduced
+
 ### Multi-objective
 
 - NSGA-II: https://doi.org/10.1109/4235.996017
