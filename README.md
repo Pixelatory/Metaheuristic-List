@@ -40,11 +40,6 @@ Known for working well for large-scale optimization problems. May need to consid
 
 - NSGA-II: https://doi.org/10.1109/4235.996017
 
-## Water Wave Optimization (WWO)
-
-- Original WWO: https://doi.org/10.1016/j.cor.2014.10.008
-- SimWWO: https://doi.org/10.1109/CEC.2015.7256974
-
 ## Differential Evolution (DE)
 
 - Original DE: https://doi.org/10.1109/NAFIPS.1996.534789
@@ -60,6 +55,11 @@ Known for working well for large-scale optimization problems. May need to consid
 
 - CMODE: https://doi.org/10.1109/TCYB.2015.2490669
 - CCMODE (constrained): https://doi.org/10.1109/TCYB.2018.2819208
+
+## Water Wave Optimization (WWO)
+
+- Original WWO: https://doi.org/10.1016/j.cor.2014.10.008
+- SimWWO: https://doi.org/10.1109/CEC.2015.7256974
 
 ## Ant Colony Optimization (ACO)
 
