@@ -24,6 +24,7 @@ Known for working well for large-scale optimization problems. May need to consid
 - CMOPSO: https://doi.org/10.1016/j.ins.2017.10.037
 - HTL-PSO: https://doi.org/10.1016/j.neucom.2016.10.001
 - MOPSO_TA: https://doi.org/10.1016/j.asoc.2022.108532
+- MMOPSO: https://doi.org/10.1016/j.ejor.2015.06.071
 
 ## Genetic Algorithms (GA)
 
