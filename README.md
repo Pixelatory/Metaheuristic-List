@@ -35,6 +35,7 @@ Known for working well for large-scale optimization problems. May need to consid
 
 - CCGA, CCGA-1, CCGA-2: https://doi.org/10.1007/3-540-58484-6_269
   - note: this may be the first time cooperative coevolution was introduced
+- NSCCGA: https://doi.org/10.1007/978-3-540-24854-5_56
 
 ### Multi-objective
 
