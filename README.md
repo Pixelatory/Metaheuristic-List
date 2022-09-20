@@ -27,6 +27,7 @@ Known for working well for large-scale optimization problems. May need to consid
 - HTL-PSO: https://doi.org/10.1016/j.neucom.2016.10.001
 - MOPSO_TA: https://doi.org/10.1016/j.asoc.2022.108532
 - MMOPSO: https://doi.org/10.1016/j.ejor.2015.06.071
+- MDEPSO: https://doi.org/10.1007/978-3-540-89694-4_26
 
 #### Cooperative
 - CCMGPSO: Madani, Amirali. "Multi-Guide Particle Swarm Optimization for Large-Scale Multi-Objective Optimization Problems." (2021).
