@@ -77,6 +77,16 @@ Known for working well for large-scale optimization problems. May need to consid
 - MLFS-CCDE (for feature selection): https://doi.org/10.1007/s12293-021-00328-7
 - NSCCDE: https://doi.org/10.1109/ACCESS.2017.2716111
 
+### Many-objective
+- NSDE-R: https://doi.org/10.1007/s00158-019-02272-0
+- MyO-DEMR: https://doi.org/10.1145/2463372.2463445
+- DECOR: https://doi.org/10.1016/j.ins.2017.09.051
+- LSMaODE: https://doi.org/10.1109/TCYB.2022.3178929
+- MGDE: https://doi.org/10.1007/s10479-022-04641-3
+- RODE: https://doi.org/10.1007/s13369-020-04536-0
+- MOLG-DE: https://doi.org/10.1016/j.jocs.2022.101746
+- GrDE: https://doi.org/10.1109/CEC.2016.7744139
+
 ## Water Wave Optimization (WWO)
 
 ### Single-objective
