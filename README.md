@@ -32,6 +32,14 @@ Known for working well for large-scale optimization problems. May need to consid
 #### Cooperative
 - CCMGPSO: Madani, Amirali. "Multi-Guide Particle Swarm Optimization for Large-Scale Multi-Objective Optimization Problems." (2021).
 
+### Many-objective
+
+- VaPSO: https://doi.org/10.1016/j.asoc.2021.107299
+- MaOPSO/2s-pccs: https://doi.org/10.1109/TCYB.2016.2548239
+- MOPSO/GDR: https://doi.org/10.1016/j.asoc.2020.106661
+- RMOPSO & DMOPSO: https://doi.org/10.1007/978-3-540-87700-4_75
+- MOPSO/DD: https://doi.org/10.1109/TCYB.2019.2922287
+
 ## Genetic Algorithms (GA)
 
 ### Single-objective
