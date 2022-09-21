@@ -105,3 +105,10 @@ Known for working well for large-scale optimization problems. May need to consid
 ## Genetic Programming
 
 ## Nondominated Neighbor Immune Algorithm (NNIA)
+
+# Frameworks
+
+## Multi-objective
+
+## Many-objective
+- CEF: https://doi.org/10.1109/TETCI.2018.2849380
